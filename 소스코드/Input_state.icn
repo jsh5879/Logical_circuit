@@ -1,0 +1,86 @@
+SymbolianIcn ver1.00(2006.04.27)
+ModuleName Input_state
+LanguageType Veirlog
+GridInterval 8
+MillimetersIn100RealScaledUnit 25
+ZoomOutScale 32
+NumberOfHorzPapaers 1
+NumberOfVertPapaers 1
+IfDrawModuleName True
+IfDrawPortnameText True
+ModuleNameDrawPosition middle
+Boxes
+Box Left: 344 Top: 560 ,Right: 496 ,Bottom: 704
+End
+Parameters
+End
+Ports
+Port Left: 520 Top: 600 ,SymbolSideLeft: 496 ,SymbolSideTop: 600
+Portname: E ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 664 ,SymbolSideLeft: 496 ,SymbolSideTop: 664
+Portname: E_walk ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+1
+,RV:
+0
+Port Left: 320 Top: 568 ,SymbolSideLeft: 344 ,SymbolSideTop: 568
+Portname: Key ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 0 ,LV:
+9
+,RV:
+0
+Port Left: 520 Top: 568 ,SymbolSideLeft: 496 ,SymbolSideTop: 568
+Portname: N ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 632 ,SymbolSideLeft: 496 ,SymbolSideTop: 632
+Portname: N_walk ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+1
+,RV:
+0
+Port Left: 520 Top: 616 ,SymbolSideLeft: 496 ,SymbolSideTop: 616
+Portname: S ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 680 ,SymbolSideLeft: 496 ,SymbolSideTop: 680
+Portname: S_walk ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+1
+,RV:
+0
+Port Left: 520 Top: 584 ,SymbolSideLeft: 496 ,SymbolSideTop: 584
+Portname: W ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 648 ,SymbolSideLeft: 496 ,SymbolSideTop: 648
+Portname: W_walk ,PortType: multibit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+1
+,RV:
+0
+Port Left: 320 Top: 584 ,SymbolSideLeft: 344 ,SymbolSideTop: 584
+Portname: clk ,PortType: singlebit ,LanguageType: Veriilog ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 520 Top: 696 ,SymbolSideLeft: 496 ,SymbolSideTop: 696
+Portname: off_sign ,PortType: singlebit ,LanguageType: Veriilog ,PortDirection: 2 ,LV:
+0
+,RV:
+0
+Port Left: 320 Top: 600 ,SymbolSideLeft: 344 ,SymbolSideTop: 600
+Portname: rst ,PortType: singlebit ,LanguageType: Veriilog ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+End
+Ellipses
+End
+Lines
+End
+Arcs
+End
+Texts
+End
